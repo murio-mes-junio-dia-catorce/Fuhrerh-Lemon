@@ -46,18 +46,6 @@ TypeScript   25 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 ---
-<!--START_SECTION:Kaggle-->
-## 💡 **Kaggle**
-<h3 align="center">
-  <img align="center" alt="kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/fuhrerhlemon" width="150" height="25"/>
-</h3>
-<h3 align="center">
-  <img align="center" alt="kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/fuhrerhlemon/competition/light" width="80" height="100"/>
-  <img align="center" alt="kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/fuhrerhlemon/dataset/light" width="80" height="100"/>
-  <img align="center" alt="kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/fuhrerhlemon/notebook/light" width="80" height="100"/>
-</h3>
-
-<!--END_SECTION:Kaggle-->
 ## 🚀**Mis proyectos**
 
 <table align="center">
