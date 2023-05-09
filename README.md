@@ -9,6 +9,9 @@
   <a href="https://www.hackerrank.com/FuhrerhLemon?hr_r=1" title="HackerRank" target="_blank" style="cursor: alias" rel="noopener">
     <img alt="HackerRank - FuhrerhLemon" src="https://img.shields.io/badge/hackerrank-00A98F?&style=for-the-badge&logo=hackerrank&logoColor=white">
   </a>
+  <a href="https://www.datacamp.com/profile/fuhrerhlemon" title="datacamp" target="_blank" style="cursor: alias" rel="noopener">
+    <img alt="datacamp- FuhrerhLemon" src="https://img.shields.io/badge/datacamp-03EF62?&style=for-the-badge&logo=datacamp&logoColor=white">
+  </a>
   <a href="https://www.kaggle.com/fuhrerhlemon" title="Kaggle" target="_blank" style="cursor: alias" rel="noopener">
     <img alt="Kaggle - FuhrerhLemon" src="https://img.shields.io/badge/kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
